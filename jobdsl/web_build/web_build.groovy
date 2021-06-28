@@ -9,7 +9,7 @@ pipelineJob('web_build') {
             }
           }
         }
-        scriptPath("web_build/Jenkinsfile")
+        scriptPath("auth_build/Jenkinsfile")
     }
   }
 }

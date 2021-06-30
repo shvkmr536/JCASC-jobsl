@@ -1,4 +1,4 @@
-pipelineJob('web_build') {
+pipelineJob('sonarqube') {
   definition {
     cpsScm {
         scm {

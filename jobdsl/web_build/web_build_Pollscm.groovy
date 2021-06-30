@@ -1,4 +1,4 @@
-pipelineJob('web_build_1') {
+pipelineJob('web_build') {
   definition {
     cpsScm {
         scm {

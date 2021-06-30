@@ -9,7 +9,7 @@ pipelineJob('sonarqube') {
             }
           }
         }
-        scriptPath("web_build/Jenkinsfile")
+        scriptPath("sonar/Jenkinsfile")
     }
   }
 }
